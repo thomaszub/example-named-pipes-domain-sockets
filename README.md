@@ -17,3 +17,11 @@ _File_: execute the following on two different shells for the file version
 python3 timer_file.py
 cat < timer.pipe
 ```
+
+## Domain sockets
+
+Execute the following on two differeny shells
+```bash
+python3 socket_server.py
+python3 socket_client.py
+```
